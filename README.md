@@ -46,7 +46,7 @@
 ## 🛠 Технологический стек
 * **Язык и среда:** Python, JupyterLab
 * **Библиотеки:** Pandas
-* **Встроенные модули:** `collections` , `itertools`, `os`, `pathlib`, `urllib`
+* **Встроенные модули:** `collections`, `itertools`, `os`, `pathlib`, `urllib`
 
 ## 📁 Структура репозитория
 
