@@ -46,4 +46,11 @@
 ## 🛠 Технологический стек
 * **Язык и среда:** Python, JupyterLab
 * **Библиотеки:** Pandas
-* **Встроенные модули:** `itertools`, `collections` , `pathlib`  
+* **Встроенные модули:** `itertools`, `collections` , `pathlib`
+
+## 📁 Структура репозитория
+
+* `data/` — папка с данными (`all_courses.csv` и `purchased_courses.csv`).
+* `course_cross_sell.ipynb` — Jupyter-блокнот с кодом и выводами.
+* `environment.yml` — конфигурационный файл для развертывания среды через Conda.
+* `requirements.txt` — файл зависимостей для сборки среды через стандартный pip.  
