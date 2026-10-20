@@ -57,6 +57,16 @@
 
 ## 💻 Инструкции по запуску проекта
 
+### 🌐 Запуск проекта онлайн в Google Colab
+
+Вы можете запустить и протестировать работу проекта прямо в браузере через облачный сервис Google Colab. Исходные данные скачаются в сессию автоматически.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EvgenySklyarov81/course-cross-sell/blob/main/course_cross_sell.ipynb)
+
+1. Нажмите на кнопку **«Open In Colab»** выше.
+2. В верхнем меню среды Colab выберите пункт: **Среда выполнения** (*Runtime*) -> **Выполнить всё** (*Run all*).
+
+
 ### Для пользователей Anaconda / Conda:
 1. Скачайте репозиторий проекта локально на свой компьютер или клонируйте его.
 2. Откройте терминал Anaconda Prompt (или обычный терминал) и перейдите в корневую папку скачанного проекта.
