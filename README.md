@@ -63,7 +63,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EvgenySklyarov81/course-cross-sell/blob/main/course_cross_sell.ipynb)
 
-1. Нажмите на кнопку **«Open In Colab»** выше.
+1. Удерживая **Ctrl** (или Cmd на Mac), нажмите на кнопку **«Open In Colab»** выше.
 2. В верхнем меню среды Colab выберите пункт: **Среда выполнения** (*Runtime*) -> **Выполнить всё** (*Run all*).
 
 
