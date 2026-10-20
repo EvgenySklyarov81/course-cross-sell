@@ -1,0 +1,8 @@
+name: course_cross_sell
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas<3.0
+  - jupyterlab
